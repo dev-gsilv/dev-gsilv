@@ -10,4 +10,4 @@ Hard skills:
 - C#, Java;
 - SQL, TSQL; 
 - Git;
-- Bash Linux. 
+- Bash. 

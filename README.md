@@ -10,6 +10,6 @@ Hard skills:
 - CSS, Tailwind;
 - JS, TS;
 - Node.js, Java;
-- MySQL, PostGres, MongoDB; 
+- MySQL, Postgres, MongoDB; 
 - Git;
 - Shell/Bash. 

@@ -2,14 +2,16 @@
 ***
 
 My name is **Guilherme**, I'm a junior **back-end developer** based in Brasília/DF - Brazil. I've a technical degree in Software Development by Universidad Cenfotec, and a certification in Scrum Fundamentals.
-I've studied JS/TS, Node.js, Java, MySQL, Postgres, MongoDB, Git, Shell/Bash; but also a little bit of HTML and CSS/Tailwind. I've 3+ years work experience at tech related position, where I was promoted to a senior associate. There, I build strong communication and leadership skills. Advanced English (C1) and Spanish, native Portuguese speaker.
+I've studied JavaScript, TypeScript, Node.js, Express.js, RESTful API, Prisma ORM, Mongoose ODM, Java, MySQL, Postgres, MongoDB, Git, Shell/Bash; but also a little bit of HTML5 and CSS3 and Tailwind. I've 3+ years work experience at tech related position (Senior Data Associate and then Content Test Specialist). There, I build strong communication and leadership skills. I speak English, Spanish and Portuguese (native speaker).
 To keep up with the ever-changing tech field, I consistently seek for new challenges and opportunities to expand my capabilities and evolve as a professional.
 
 Hard skills:
-- HTML;
-- CSS, Tailwind;
-- JS, TS;
-- Node.js, Java;
+- JavaScript, TypeScript;
+- Node.js, Express.js;
+- Prisma, Mongoose;
+- Java;
 - MySQL, Postgres, MongoDB; 
 - Git;
-- Shell/Bash. 
+- Shell/Bash;
+- HTML;
+- CSS, Tailwind.

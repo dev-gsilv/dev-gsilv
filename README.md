@@ -35,7 +35,7 @@ Feel free to get in touch, I'd like to know you! :)
 ### 👩‍💻 &nbsp;Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge&logo=openjdk&logoColor=1572B6)&nbsp;
 
 ### ⚡ &nbsp;Database 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
@@ -59,12 +59,12 @@ Feel free to get in touch, I'd like to know you! :)
 		<tr>
 			<td align="center" valign="top" width="80"><br />
                 <a href="https://github.com/dev-gsilv/calculadora_investimentos">
-                <img src="./.github/assets/documentation.png" />
+                <img src="./images/documentation.png" />
                 </a>
             </td>
 			<td valign="top">
                 <h3>Simulfix - API</h3>
-                <p>Create investment simulations.</p>
+                <p>An API to calculate and compare different types of fixed income investments.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -76,7 +76,7 @@ Feel free to get in touch, I'd like to know you! :)
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
-    <img alt="Top Langs" height="130em" src="https://streak-stats.demolab.com?user=dev-gsilv&theme=dark">
+    <img alt="Streak stats" height="130em" src="https://streak-stats.demolab.com/?user=dev-gsilv&theme=dark">
 	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-gsilv&line_height=10&card_width=355&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,css&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFFFFF">
 
 </div>

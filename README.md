@@ -4,7 +4,7 @@
 </h1>
 
 
-<div align="center">
+<div align="left">
 
 ---
 
@@ -19,11 +19,13 @@ To keep up with the ever-changing tech field, I consistently create small projec
 
 Feel free to get in touch, I'd like to get to know you! <b>:)</b>
 
+<div align="center">
 <a href="mailto:dev.gsilv@gmail.com">
 <img src="https://img.shields.io/badge/-email-ffffff?style=for-the-badge&amp;logo=gmail&amp;logoColor=d0021b alt="E-mail">
 </a>
 <a href="https://www.linkedin.com/in/devguilhermesilva/"><img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=4a90e2" alt="LinkedIn">
 </a>
+</div>
 
 ---
 

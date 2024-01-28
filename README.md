@@ -49,31 +49,6 @@ Feel free to get in touch, I'd like to get to know you! <b>:)</b>
 
 ---
 
-## 📌 &nbsp;Pinned Repositories
-
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-                <a href="https://github.com/dev-gsilv/calculadora_investimentos">
-                <img src="./images/documentation.png" />
-                </a>
-            </td>
-			<td valign="top">
-                <h3>Simulfix - API</h3>
-                <p>An API to calculate and compare different types of fixed income investments.</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
----
-
 ## 📊 &nbsp;Stats
 
 <h3 align="left">GitHub Stats</h3>

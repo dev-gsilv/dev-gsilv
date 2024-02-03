@@ -1,21 +1,14 @@
 <h1 align="center">
-  Hello World! I'm Guilherme G. Silva 👋
-<h3 align="center">Backend Developer</h3>
+  Hello World! 👋
 </h1>
-
 
 <div align="left">
 
----
-
 ### 👨‍💻 About me
 
+I'm Guilherme, software developer based in Brasília/Federal District, Brazil. Here I share with you a little bit of my journey so far: I've studied Pharmacy in my early 20s, went to work in another state, then moved to Costa Rica and lived there for about five years. Hustled on some jobs, then joined Amazon. There I was promoted to senior associate and developed ever further my communication, problem-solving, continuous improvement, collaborative and leadership skills. I speak English, Spanish and Portuguese.
 
-I'm Guilherme, a passionate junior backend developer based in Brasília/DF - Brazil. I possess a keen attention to detail, and I'm a supportive team player known for my strong collaborative abilities.
-Furthermore, I lived in Costa Rica for about 5 years. In that time, I gained 3+ years of work experience at a tech-related position, where I was promoted to senior associate. Over those years, I built strong communication and leadership skills. I speak English, Spanish and Portuguese.
-
-I've studied and created projects mainly with <b>JavaScript, Node.js, Express.js, RESTful API, Mongoose ODM, AWS EC2 and Git</b>. Besides that, I've been studying also <b>Java, TypeScript, Nest.js, Prisma ORM, Java, MySQL, Postgres, Bash scripting, React, Tailwind, Docker, GitHub Actions (Continuous Integration / Continuous Deployment)</b>.
-To keep up with the ever-changing tech field, I consistently create small projects with new technologies and seek out new connections to expand my network.
+I've studied and created projects mainly with <b>Javascript, Typescript, Node.js, Express.js, Java, Spring Boot, MySQL, PostgreSQL, Prisma, MongoDB, Mongoose, RESTful API, Git and Bash</b>. Besides that, I've been studying also Nest.js, AWS, Docker, GitHub Actions (Continuous Integration and Continuous Deployment) and Unity Testing. To keep up with the ever-changing tech field, I consistently create personal projects and seek out new connections to expand my network.
 
 Feel free to get in touch, I'd like to get to know you! <b>:)</b>
 

@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" style="border:none">
   <tr >
       <td style="padding: 0 5rem 0 0">
       <img src="./images/dev_productivity_re_fylf.svg" style="width:11rem;">
@@ -48,13 +48,6 @@
 ---
 
 ## 💻 &nbsp;Tech Stack
-<div style="float:right; padding: 5rem">
-  <img src="./images/working_from_anywhere_re_9obt.svg" style="width:15rem;">
-</div>
-
-<div>
-</div>
-
 ### 🧮 &nbsp;Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;

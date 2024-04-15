@@ -4,7 +4,7 @@
       <img src="./images/dev_productivity_re_fylf.svg" style="width:11rem;">
     </td>
     <td style="">
-      <h1 align="center">{ msg: 'Hello World!'}</h1>
+      <h1 align="center">{ msg: 'Hello World!' }</h1>
     </td>
   </tr>
 </table>

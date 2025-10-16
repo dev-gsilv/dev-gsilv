@@ -18,17 +18,11 @@
   </tr>
   <tr>
     <td>
-      <h3>👨‍💻 About me</h3>
-      I'm Guilherme, software developer based in Brasília/Federal District, Brazil. Here I share with you a little bit of my journey so far: I've studied Pharmacy in my early 20s, went to work in another state, then moved to Costa Rica and lived there for about five years. Hustled on some jobs, then joined Amazon. There I was promoted to senior associate and developed ever further my communication, problem-solving, continuous improvement, collaborative and leadership skills. I speak English, Spanish and Portuguese.
-      <br /><br />
       I've studied and created projects mainly with <b>Javascript, Typescript, Node.js, Express.js, Java, Spring Boot, MySQL, PostgreSQL, Prisma, MongoDB, Mongoose, RESTful API, Git and Bash</b>. Besides that, I've been studying also Nest.js, AWS, Docker, GitHub Actions (Continuous Integration and Continuous Deployment) and Unity Testing. To keep up with the ever-changing tech field, I consistently create personal projects and seek out new connections to expand my network.
       <br /><br />
       Feel free to get in touch, I'd like to get to know you! <b>:)</b>
     </td>
     <td>
-      <h3>👨‍💻 Sobre mim</h3>
-      Me chamo Guilherme, sou desenvolvedor de software morando atualmente em Brasília/DF. Aqui compartilho com vocês um pouco da minha trajetória até agora: me formei em farmácia aos 23 anos, fui trabalhar em Mato Grosso, depois me mudei para a Costa Rica e morei lá por cerca de cinco anos. Batalhei em alguns empregos e depois entrei na Amazon. Lá fui promovido a senior associate e desenvolvi ainda mais minhas habilidades de comunicação, resolução de problemas, melhoria contínua, colaboração e liderança. Falo inglês, espanhol e português.
-      <br /><br />
       Estudei e criei projetos principalmente com <b>Javascript, Typescript, Node.js, Express.js, Java, Spring Boot, MySQL, PostgreSQL, Prisma, MongoDB, Mongoose, API RESTful, Git e Bash</b>. Além disso, tenho estudado também Nest.js, AWS, Docker, GitHub Actions (Continuous Integration and Continuous Deployment) e Unity Testing. Para acompanhar o campo tecnológico em constante mudança, crio alguns projetos pessoais e procuro novas conexões para expandir minha rede.
       <br /><br />
       Fique a vontade para entrar em contato! :)
